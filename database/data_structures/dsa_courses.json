@@ -48,5 +48,12 @@
         "url": "https://www.algoexpert.io/data-structures",
         "category": "data-structures",
         "subcategory": "dsa_courses"
+    },
+    {
+        "name": "Striver's A2Z DSA Course",
+        "description": "Striver's A2Z DSA Course on YouTube : A comprehensive and well-organized course covering data structures and algorithms from beginner to advanced level (Language: English)\n(Level: Beginner to Advanced)\n(Price: Free)\n",
+        "url": "https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "category": "data-structures",
+        "subcategory": "dsa_courses"
     }
   ]
